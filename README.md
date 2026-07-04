@@ -1,10 +1,10 @@
 # Health Insurance Claims Process Improvement — Independent BA Case Study
 
-**Author:** [Your Name] | **Domain:** Health & Life Insurance — Claims Operations | July 2026
+**Author:** [Your Name] | **Domain:** Health & Life Insurance — Claims Operations | June 2026
 
 ## Why I built this
 
-I wanted hands-on practice with core business analyst methodology — requirements gathering, process mapping, and translating data into recommendations — applied to the insurance domain, ahead of applying for BSA roles in the sector.
+I wanted hands-on practice with core business analyst methodology — requirements gathering, process mapping, and translating data into recommendations which can be applied to the insurance domain.
 
 ## What's inside
 
