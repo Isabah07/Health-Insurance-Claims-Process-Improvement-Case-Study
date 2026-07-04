@@ -1,4 +1,4 @@
-# Health Insurance Claims Process Improvement — Independent BA Case Study
+# Health Insurance Claims Process Improvement — Independent BSA Case Study
 
 **Author:** Isabah Tabenda Hasan | **Domain:** Health & Life Insurance — Claims Operations | June 2026
 
