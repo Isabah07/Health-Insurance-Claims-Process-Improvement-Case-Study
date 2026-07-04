@@ -1,6 +1,6 @@
 # Health Insurance Claims Process Improvement — Independent BA Case Study
 
-**Author:** [Your Name] | **Domain:** Health & Life Insurance — Claims Operations | June 2026
+**Author:** Isabah Tabenda Hasan | **Domain:** Health & Life Insurance — Claims Operations | June 2026
 
 ## Why I built this
 
