@@ -19,7 +19,7 @@ Across the 4,500 claims analyzed, only **33.8%** were approved on first pass —
 
 ## Method
 
-1. Pulled a public sample claims dataset and ran exploratory analysis in Python (pandas/matplotlib) to quantify the problem.
+1. Pulled a public sample claims dataset and ran exploratory analysis in Python (pandas) to quantify the problem.
 2. Mapped the current-state process based on what the data implied about channels, review steps, and outcomes.
 3. Ran a stakeholder analysis (members, adjusters, ops manager, IT, compliance).
 4. Wrote business requirements and functional user stories with acceptance criteria.
